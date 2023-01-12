@@ -1,0 +1,16 @@
+.header{
+  background: gray;
+  color: green;
+  display: block;
+}
+a{
+  font-size: 30px;
+  display: block;
+  color: black;
+  font-style: none;
+}
+.footer{
+  background: gray;
+  height: 40px;
+
+}
